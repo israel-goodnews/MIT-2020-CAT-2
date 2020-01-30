@@ -1,0 +1,54 @@
+.navbar-brand{
+    padding-left: 100px;
+    font-family: "DejaVu Serif Condensed";
+    font-style: italic;
+}
+.col-md-8 {
+    padding-left: 10%;
+    padding-right:10%;
+    padding-top: 5vh;
+}
+.heading_one{
+    padding-left: 10%;
+}
+#row_one{
+    height: 50vh;
+}
+.heading_one, .heading_two{
+    color: white;
+}
+.outline{
+    height: 70vh;
+    background-color: lightgrey;
+}
+.navbar_one{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
+}
+#textbox_one{
+    padding-top: 20vh;
+    padding-left: 60px;
+}
+.flower1{
+    padding-right: 0;
+    width: 100%;
+    height: 75%;
+}
+hr{
+    border: solid 2px deepskyblue;
+    width: 10%;
+    margin-left: 26%;
+}
+.sunrise{
+    padding-left: 20%;
+    width: 100%;
+    height: 40vh;
+}
+.navbar_two{
+    height: 10vh;
+    z-index: 100;
+}
+.padlock, .laptop, .trolley{
+    margin-left: 25%;
+}
